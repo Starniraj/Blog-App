@@ -38,6 +38,7 @@ export const Technology = () => {
 
                     <div className='advertisement'>
                        <p>Advertisement</p>
+                       <img src="https://www.computerhope.com/jargon/a/advertise.jpg" alt="advertisement" style={{width:"160px",position:"relative",top:"-158px",height:"29vh"}} />
                     </div>
                 </div>
             </div>

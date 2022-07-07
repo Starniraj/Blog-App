@@ -15,7 +15,7 @@ const Home = () => {
       
         <div className="home__container">
       <div className="home__first">
-        <Link to ="/technology"><img src='https://thumbs.dreamstime.com/b/internet-information-technology-businessman-hand-showing-concept-75784736.jpg'alt="Not found"/></Link>
+        <Link to ="/technology"><img src="https://www.mindinventory.com/blog/wp-content/uploads/2018/07/full-stack1200.png"alt="Full Stack"/></Link>
       </div>
       <div className="home__sec">
        <Link to="/fitness" > <img src="https://www.fitnessfirst.co.id/-/media/project/evolution-wellness/fitness-first/south-east-asia/malaysia/blog/start-exercising-again-after-a-long-break/start-exercising-again-after-a-long-break-tile.jpg" alt="Not found" /></Link>
@@ -35,7 +35,7 @@ const Home = () => {
                                 articleid={n.id}
                                 imgUrl={n.Image}
                                 title={n.title}
-                                description={n.description.slice(0, 200)}
+                                description={n.description.slice(0, 500)}
                                 author={n.author}
                             />
                         ))
@@ -48,8 +48,9 @@ const Home = () => {
                                 articleid={n.id}
                                 imgUrl={n.Image}
                                 title={n.title}
-                                description={n.description.slice(0, 200)}
+                                description={n.description.slice(0, 500)}
                                 author={n.author}
+
                             />
                         ))
                     }
@@ -61,7 +62,7 @@ const Home = () => {
                                 articleid={n.id}
                                 imgUrl={n.Image}
                                 title={n.title}
-                                description={n.description.slice(0, 200)}
+                                description={n.description.slice(0, 500)}
                                 author={n.author}
                             />
                         ))
@@ -69,7 +70,6 @@ const Home = () => {
                 </div>
                 <h1 style={{marginTop:"40px", display : "inline-block"}}>Latest Articles</h1>
                 
-                <h1 className='Top' >Top Posts</h1>
                 <hr style={{width:"200px",  thickness:"20px"}} />
                 
 
@@ -80,7 +80,7 @@ const Home = () => {
                                 articleid={n.id}
                                 imgUrl={n.Image}
                                 title={n.title}
-                                description={n.description.slice(0, 200)}
+                                description={n.description.slice(0, 500)}
                                 author={n.author}
                             />
                         ))
@@ -92,7 +92,7 @@ const Home = () => {
                             <SmallCard
                                 articleid={n.id}
                                 imgUrl={n.Image}
-                                description={n.description.slice(0, 200)}
+                                description={n.description.slice(0, 500)}
                                 title={n.title.slice(0, 25)}
                                 author={n.author}
                             />
@@ -101,6 +101,7 @@ const Home = () => {
 
                     <div className='advertisement'>
                        <p>Advertisement</p>
+                       <img src="https://www.computerhope.com/jargon/a/advertise.jpg" alt="advertisement" style={{width:"160px",position:"relative",top:"-158px",height:"29vh"}} />
                     </div>
                 </div>
                 <h1 style={{marginTop:"40px", display : "inline-block"}}>Latest Stories</h1>
@@ -113,7 +114,7 @@ const Home = () => {
                                 articleid={n.id}
                                 imgUrl={n.Image}
                                 title={n.title}
-                                description={n.description.slice(0, 200)}
+                                description={n.description.slice(0, 500)}
                                 author={n.author}
                             />
                         ))
@@ -127,7 +128,7 @@ const Home = () => {
                                 articleid={n.id}
                                 imgUrl={n.Image}
                                 title={n.title}
-                                description={n.description.slice(0, 200)}
+                                description={n.description.slice(0, 500)}
                                 author={n.author}
                             />
                         ))
@@ -141,7 +142,7 @@ const Home = () => {
                                 articleid={n.id}
                                 imgUrl={n.Image}
                                 title={n.title}
-                                description={n.description.slice(0, 200)}
+                                description={n.description.slice(0, 500)}
                                 author={n.author}
                             />
                         ))

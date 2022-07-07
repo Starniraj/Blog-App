@@ -6,32 +6,33 @@ const Details = (props) => {
   const [details,setDetails] = useState([
     {
       "id": 1,
-      "title": "Squid Game season 2 officially announced by Netflix, director Hwang Dong-hyuk shares details",
-      "Image": "https://www.5dariyanews.com/Uploads/2022/06/13/en-news-12222418-Squid-Game-Season-2-large.jpg",
+      "title": "Stranger Things you can watch all 5 Season in Netflix",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ22pfn_3ok-zvRYqATVUfnLp2xxRQAQ3AnjQ&usqp=CAU",
       "category": "mix",
-      "description":"The second season of Squid Game was announced on Sunday by Netflix on Twitter.The first season of the Korean show released last year and went on to be a monumental global success."
+      "description":"Strange things are afoot in Hawkins, Indiana, where a young boy's sudden disappearance unearths a young girl with otherworldly powers.It's been nearly a year since Will's strange disappearance. But life's hardly back to normal in Hawkins. Not even close."
     },
     {
       "id": 1,
-      "title": "Squid Game season 2 officially announced by Netflix, director Hwang Dong-hyuk shares details",
-      "Image": "https://www.5dariyanews.com/Uploads/2022/06/13/en-news-12222418-Squid-Game-Season-2-large.jpg",
+      "title": "Stranger Things you can watch all 5 Season in Netflix",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ22pfn_3ok-zvRYqATVUfnLp2xxRQAQ3AnjQ&usqp=CAU",
       "category": "Movies",
-      "description":"The second season of Squid Game was announced on Sunday by Netflix on Twitter.The first season of the Korean show released last year and went on to be a monumental global success."
+      "description":"Strange things are afoot in Hawkins, Indiana, where a young boy's sudden disappearance unearths a young girl with otherworldly powers.It's been nearly a year since Will's strange disappearance. But life's hardly back to normal in Hawkins. Not even close."
     },
    
     {
       "id": 2,
-      "title": "Ante Sundaraniki OTT Release Date, Where & When to Watch?",
-      "Image": "https://jbt-en-images.s3.ap-south-1.amazonaws.com/wp-content/uploads/2022/06/10115110/ante-sundaraniki-collection-day-1.jpg",
+      "title": "Anek",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc2Y7Xut8YcULx1IpYwFdy2OtlKFzi68Wq8w&usqp=CAU",
       "category": "Movies",
-      "description":"Nani and Nazriya Nazim starrer rom-com, as decided by its makers, had a summer release on June 10, 2022. Apart from the original (Telugu) version, the film was also dubbed in Tamil as Adade Sundara while in Malayalam under the title Aha Sundara.Despite being under-performed at BO, the film Ante Sundaraniki earned a lot of praise with lots of appreciation for the lead stars cast. Now it is reported that leading OTT platform Netflix has acquired the OTT rights of the film."
+      "description": "Amid turmoil in northeast India, an undercover agent tasked with peace negotiations crosses paths with a tenacious boxer fighting for her dreams Starring : Ayushmann Khurrana,Manoj Pahwa,Kumud Mishra."
     },
     {
       "id": 61,
-      "title": "Ante Sundaraniki OTT Release Date, Where & When to Watch?",
-      "Image": "https://jbt-en-images.s3.ap-south-1.amazonaws.com/wp-content/uploads/2022/06/10115110/ante-sundaraniki-collection-day-1.jpg",
+      "title": "Anek",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc2Y7Xut8YcULx1IpYwFdy2OtlKFzi68Wq8w&usqp=CAU",
       "category": "footer1",
-      "description":"Nani and Nazriya Nazim starrer rom-com, as decided by its makers, had a summer release on June 10, 2022. Apart from the original (Telugu) version, the film was also dubbed in Tamil as Adade Sundara while in Malayalam under the title Aha Sundara.Despite being under-performed at BO, the film Ante Sundaraniki earned a lot of praise with lots of appreciation for the lead stars cast. Now it is reported that leading OTT platform Netflix has acquired the OTT rights of the film."
+      "description": "Amid turmoil in northeast India, an undercover agent tasked with peace negotiations crosses paths with a tenacious boxer fighting for her dreams Starring : Ayushmann Khurrana,Manoj Pahwa,Kumud Mishra."
+      
     },
     
     {
@@ -43,10 +44,10 @@ const Details = (props) => {
     },
     {
       "id": 3,
-      "title": "South Korean show All of Us Are Dead to return with Season 2 on Netflix",
-      "Image": "https://kdramadiary.com/wp-content/uploads/2022/01/All-of-us-are-dead-a_kdramadiary.png",
+      "title": "Money Heist: Korea – Joint Economic Area on Netflix",
+      "Image": "https://static.toiimg.com/thumb/msid-92380680,imgsize-43744,width-800,height-600,resizemode-75/92380680.jpg",
       "category": "movies",
-      "description":"Netflix Korea made a big announcement on June 6, declaring the return of their series All of Us are Dead for Season 2. They dropped the poster with a caption that read, ‘Can we survive again? Hyosan High School friends’ fierce zombie survival period begins. ‘All of Us Are Dead’ season 2, only on Netflix.”"
+      "description":"It's culturally specific. “Money Heist: Korea” is subtitled “Joint Economic Area” because the series takes place in a near-future that finds North Korea and South Korea on the cusp of reunification. The Mint is located in the JEA, giving both Koreas jurisdiction over the crime scene."
     },
    
   {
@@ -58,31 +59,31 @@ const Details = (props) => {
   },
   {
     "id": 11,
-    "title": "Araku Valley ",
-    "Image": "https://www.trawell.in/admin/images/thumbs/249844316Araku_Main_thumb.jpg",
+    "title": "Lakhaniya Dari WaterFall",
+    "Image": "https://as1.ftcdn.net/v2/jpg/03/10/42/90/1000_F_310429030_lnupzYzkJ5zPbQPbJlQkYteCOIgQ2Ecd.jpg",
     "category": "Tourism",
-    "description":"At a distance of 112 km from Vizag, 432 km from Vijayawada, 85 km from Vizianagaram, 26 km from Anantagiri and 635 km from Hyderabad, Araku Valley, popularly known as Araku, is a scenic hill station in the Vishakhapatnam district of Andhra Pradesh. Often referred to as Andhra Ooty, it is one of the most famous places to experince Andhra Pradesh tourism"
+    "description":"Lakhaniya Dari Waterfall is situated at a distance of around 48 kms from Varanasi in Latifpur in Varanasi. The waterfalls are a hidden gem away from the din and chaos of the city. Especially popular among trekkers and adventure enthusiasts, the falls can be reached through a small trek in the hills."
   },
   {
     "id": 11,
-    "title": "Araku Valley ",
-    "Image": "https://www.trawell.in/admin/images/thumbs/249844316Araku_Main_thumb.jpg",
+    "title": "Varanasi",
+    "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-wo7g5apzbwG_OIRg8msKqmb12jaYLsMcXA&usqp=CAU",
     "category": "technology",
-    "description":"At a distance of 112 km from Vizag, 432 km from Vijayawada, 85 km from Vizianagaram, 26 km from Anantagiri and 635 km from Hyderabad, Araku Valley, popularly known as Araku, is a scenic hill station in the Vishakhapatnam district of Andhra Pradesh. Often referred to as Andhra Ooty, it is one of the most famous places to experince Andhra Pradesh tourism"
+    "description":"Varanasi is one of the world's oldest continually inhabited cities.[22] Kashi, its ancient name, was associated with a kingdom of the same name of 2,500 years ago. The Buddha is recorded in the Pali canon to have given his first sermon, The Setting in Motion of the Wheel of Dharma, at nearby Sarnath in 528 BCE. In the 8th century, Adi Shankara established the worship of Shiva as an official sect of Varanasi. During the Muslim rule during the Middle Ages, the city became an important centre of Hindu devotion, pilgrimage, mysticism and poetry contributing to its cultural importance. "
   },
   {
     "id": 55,
-    "title": "Vijayawada",
-    "Image": "https://www.trawell.in/admin/images/thumbs/249844254Vijayawada_Main_thumb.jpg",
+    "title": "Varanasi",
+    "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-wo7g5apzbwG_OIRg8msKqmb12jaYLsMcXA&usqp=CAU",
     "category": "mix",
-    "description":"At a distance of 37 km from Guntur, 273 km from Hyderabad, 354 km from Vizag, 453 km from Chennai and 643 km from Bangalore, Vijayawada, also known as Bezawada, is the second largest city in Andhra Pradesh State and also one of the top Places to visit in Andhra Pradesh. It is located on the banks of the Krishna River to the South, Budameru River on the north and the Indrakiladri Hills on the west. This is the largest railway junction of the South Central Railway, situated along the Chennai-Howrah and Chennai-Delhi rail route."
+    "description":"Varanasi is one of the world's oldest continually inhabited cities.[22] Kashi, its ancient name, was associated with a kingdom of the same name of 2,500 years ago. The Buddha is recorded in the Pali canon to have given his first sermon, The Setting in Motion of the Wheel of Dharma, at nearby Sarnath in 528 BCE. In the 8th century, Adi Shankara established the worship of Shiva as an official sect of Varanasi. During the Muslim rule during the Middle Ages, the city became an important centre of Hindu devotion, pilgrimage, mysticism and poetry contributing to its cultural importance. "
   },
   {
     "id": 5,
-    "title": "Vijayawada",
-    "Image": "https://www.trawell.in/admin/images/thumbs/249844254Vijayawada_Main_thumb.jpg",
+    "title": "Varanasi",
+    "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-wo7g5apzbwG_OIRg8msKqmb12jaYLsMcXA&usqp=CAU",
     "category": "Tourism",
-    "description":"At a distance of 37 km from Guntur, 273 km from Hyderabad, 354 km from Vizag, 453 km from Chennai and 643 km from Bangalore, Vijayawada, also known as Bezawada, is the second largest city in Andhra Pradesh State and also one of the top Places to visit in Andhra Pradesh. It is located on the banks of the Krishna River to the South, Budameru River on the north and the Indrakiladri Hills on the west. This is the largest railway junction of the South Central Railway, situated along the Chennai-Howrah and Chennai-Delhi rail route."
+    "description":"Varanasi is one of the world's oldest continually inhabited cities.[22] Kashi, its ancient name, was associated with a kingdom of the same name of 2,500 years ago. The Buddha is recorded in the Pali canon to have given his first sermon, The Setting in Motion of the Wheel of Dharma, at nearby Sarnath in 528 BCE. In the 8th century, Adi Shankara established the worship of Shiva as an official sect of Varanasi. During the Muslim rule during the Middle Ages, the city became an important centre of Hindu devotion, pilgrimage, mysticism and poetry contributing to its cultural importance. "
   },
   {
     "id": 12,
@@ -93,10 +94,10 @@ const Details = (props) => {
   },
   {
     "id": 12,
-    "title": "Rajahmundry:Lake of Backwater",
-    "Image": "https://www.trawell.in/admin/images/thumbs/609085648Rajahmundry_Main_thumb.jpg",
+    "title": "Lakhaniya Dari WaterFall",
+    "Image": "https://as1.ftcdn.net/v2/jpg/03/10/42/90/1000_F_310429030_lnupzYzkJ5zPbQPbJlQkYteCOIgQ2Ecd.jpg",
     "category": "footer2",
-    "description":"At a distance of 154 km from Vijayawada, 207 km from Vizag, 186 km from Guntur, 64 km from Kakinada, 151 km from Machilipatnam and 430 km from Hyderabad, Rajahmundry, formerly called as Rajamahendravaram, is a beautiful city located on the banks of Godavari River in Andhra Pradesh. It is also known as the 'cultural capital' of Andhra Pradesh and is one of the popular Tourist places in Andhra Pradesh. It is the birth place of Adikavi Nannayya who developed script for Telugu language."
+    "description":"Lakhaniya Dari Waterfall is situated at a distance of around 48 kms from Varanasi in Latifpur in Varanasi. The waterfalls are a hidden gem away from the din and chaos of the city. Especially popular among trekkers and adventure enthusiasts, the falls can be reached through a small trek in the hills."
   },
   {
     "id": 13,
@@ -107,17 +108,17 @@ const Details = (props) => {
   },
   {
     "id": 22,
-    "title": "Robotic Process Automation (RPA) ",
-    "Image": "https://i0.wp.com/electricalfundablog.com/wp-content/uploads/2018/06/1-Robotic-Process-Automation-1.png?ssl=1",
+    "title": "Machine Learning (All about new Technology) ",
+    "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfg2unrnk-8Pjj9YNVPShAvhCehBKpYu_EUg&usqp=CAU",
     "category": "Technology",
     "description":"Like AI and Machine Learning, Robotic Process Automation, or RPA, is another technology that is automating jobs. RPA is the use of software to automate business processes such as interpreting applications, processing transactions, dealing with data, and even replying to emails. RPA automates repetitive tasks that people used to do. "
   },
   {
     "id": 63,
-    "title": "Edge Computing ",
-    "Image": "https://media.itpro.co.uk/image/upload/v1570817506/itpro/2019/09/edge_computing_mockup.jpg",
+    "title": "Machine Learning (All about new Technology) ",
+    "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfg2unrnk-8Pjj9YNVPShAvhCehBKpYu_EUg&usqp=CAU",
     "category": "footer3",
-    "description":"Edge computing will increase as use of the Internet of Things (IoT) devices increases. By 2022, the global edge computing market is expected to reach $6.72 billion. And this new technology trend is only meant to grow and nothing less, creating various jobs, primarily for software engineers."
+    "description":"Like AI and Machine Learning, Robotic Process Automation, or RPA, is another technology that is automating jobs. RPA is the use of software to automate business processes such as interpreting applications, processing transactions, dealing with data, and even replying to emails. RPA automates repetitive tasks that people used to do. "
   },
   {
     "id": 63,
@@ -192,26 +193,25 @@ const Details = (props) => {
   
   {
     "id": 41,
-    "title": "Mirchi Bajji | Mirapakaya Bajji",
-    "Image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sibyl_sunitha/Andhra_Style_Mirapakaya_bajji_Recipe_Stuffed_Chili_Recipe_.jpg",
+    "title": "Chole Bhature",
+    "Image": "https://img-global.cpcdn.com/recipes/1d9ce5d3344e6a34/1200x630cq70/photo.jpg",
     "category": "Food",
-    "description": "Mirapakaya bajji is a street food from Andhra Pradesh and Karnataka. These delicious bajjis are also known as mirapakaya bajji in Andhra and is a well known street food there. there is another version of mirchi bajji sold in Andhra Pradesh – Cut mirchi bajji which is also equally tasty."
+    "description": "Chole bhature is a food dish popular in the Northern areas of the Indian subcontinent. It is a combination of chana masala and bhatura/puri, a fried bread made from maida. Although it is known as a typical Punjabi dish, there are varied claims around the origin of dish."
   },
-  {
+    {
     "id": 42,
-    "title": "Masala Dosa",
-    "Image": "https://vismaifood.com/storage/app/uploads/public/8b4/19e/427/thumb__700_0_0_0_auto.jpg",
+    "title": "Fast Food",
+    "Image": "https://img.freepik.com/free-vector/isometric-fast-food-collection-with-different-products-drinks_1284-34490.jpg?w=2000",
     "category": "food",
-    "description": "A traditional southern Indian dish known as masala dosa is popular throughout the country, made from a batter of soaked rice and lentils that is baked into a thin pancake and usually stuffed with potatoes, onions, and mustard seeds. The dish is often garnished with grated coconut and chopped coriander."
+    "description": "Fast food is the term for a kind of food that people eat from a restaurant, cafe or take-out where food is prepared and served quickly. It is mass-produced food. It is often pre-prepared and delivered to the shop ready for frying or boiling. There is a strong priority on speed of service.The restaurants that sell fast food are called fast food shops or fast-food restaurants. Some of the more common fast food restaurants are McDonald's, Wendy's Burger King Culver's, Taco Bell, and KFC. All these chains have a limited short menu and serve the same kind of food in all their outlets. The shops are subcontracted by the supplying company and tied absolutely by contract to that single supplier. However, the same kind of criticism could be (and is) directed at some other kinds of restaurants. The problem is seen by many critics as being one of over-eating, rather than one of the specific food types."
   },
   {
     "id": 2,
-    "title": "Masala Dosa",
-    "Image": "https://vismaifood.com/storage/app/uploads/public/8b4/19e/427/thumb__700_0_0_0_auto.jpg",
+    "title": "Fast Food",
+    "Image": "https://img.freepik.com/free-vector/isometric-fast-food-collection-with-different-products-drinks_1284-34490.jpg?w=2000",
     "category": "Food",
-    "description": "A traditional southern Indian dish known as masala dosa is popular throughout the country, made from a batter of soaked rice and lentils that is baked into a thin pancake and usually stuffed with potatoes, onions, and mustard seeds. The dish is often garnished with grated coconut and chopped coriander."
+    "description": "Fast food is the term for a kind of food that people eat from a restaurant, cafe or take-out where food is prepared and served quickly. It is mass-produced food. It is often pre-prepared and delivered to the shop ready for frying or boiling. There is a strong priority on speed of service.The restaurants that sell fast food are called fast food shops or fast-food restaurants. Some of the more common fast food restaurants are McDonald's, Wendy's Burger King Culver's, Taco Bell, and KFC. All these chains have a limited short menu and serve the same kind of food in all their outlets. The shops are subcontracted by the supplying company and tied absolutely by contract to that single supplier. However, the same kind of criticism could be (and is) directed at some other kinds of restaurants. The problem is seen by many critics as being one of over-eating, rather than one of the specific food types."
   },
- 
   {
     "id": 44,
     "title": "Badam Kulfi Recipe",
@@ -229,11 +229,12 @@ const Details = (props) => {
   },
   {
     "id": 50,
-    "title": "Biryanis",
-    "Image": "https://assets.thehansindia.com/h-upload/2020/02/05/260294-biryani.webp",
+    "title": "North Indian Food",
+    "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1mKoWzfUB2TUD-eWPykp-xosiPcUxJMn9uw&usqp=CAU",
     "category": "mix",
-    "description":"Biryani is a mixed rice dish originating among the Muslims of the Indian subcontinent. It is made with Indian spices, rice, and usually some type of meat or in some cases without any meat, and sometimes, in addition, eggs and potatoes"
+    "description":"North Indian Recipes- Amritsari Chole Bhature, Kashmiri Rogan Josh, Rajasthani Dal-Bati Churma, and Dilli ki Chaat are just a few delectable dishes that North Indian cuisine has to offer. Picture this: rich aromatic gravies, spicy vegetable stir-fries, moist and tender slow-cooked meat, and sinful desserts."
   },
+
   
   ]);
   return (

@@ -9,7 +9,7 @@ const Movies = () => {
     console.log(detail);
     return (
         <div>
-            <h1 style={{ margin: "20px 10%", display: "inline-block" }}>MOVIES</h1>
+            <h1 style={{ margin: "20px 10%", display: "inline-block" }}>Movies</h1>
             <h1 style={{ margin: "20px 0px 20px 32%", display: "inline-block" }}>Top Posts</h1>
             <div className="main__container">
                 <div className='rightbar'>
@@ -41,6 +41,7 @@ const Movies = () => {
 
                     <div className='advertisement'>
                        <p>Advertisement</p>
+                       <img src="https://www.computerhope.com/jargon/a/advertise.jpg" alt="advertisement" style={{width:"160px",position:"relative",top:"-158px",height:"29vh"}} />
                     </div>
                 </div>
                

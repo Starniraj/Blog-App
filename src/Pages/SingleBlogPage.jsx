@@ -1,6 +1,6 @@
 import React from 'react'
 import { useLocation } from 'react-router-dom'
-import './singlePage.css'
+import './style.css'
 
 const SingleBlogPage = () => {
 const location = useLocation();
@@ -11,7 +11,6 @@ console.log(title)
         <h1>{title}</h1>
         <img src={img} alt="" />
         <p>{description}</p>
-      
     </div>
   )
 }

@@ -3,12 +3,12 @@ import Header from "./Component/Header";
 import Nav from "./Component/Nav";
 import Home from "./Pages/Home"
 import Tourism from "./Pages/Tourism"
-import Movies from "./Pages/Movies"
+import Movies from "./Pages/Bollywood"
 import Technology from "./Pages/Technology"
 import Fitness from "./Pages/Fitness"
 import Food from "./Pages/Food"
 import SingleBlogPage from "./Pages/SingleBlogPage";
-import './Pages/singlePage.css';
+import './Pages/style.css';
 import Details from "./Pages/Details";
 
 function App() {

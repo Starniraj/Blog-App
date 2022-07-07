@@ -1,3 +1,14 @@
+.single__page{
+    margin: 50px 20%;
+    align-items: center;
+    cursor: pointer;
+}
+.single__page img{
+    width: 100%;
+    margin: 20px 0;
+    height: 500px;
+    align-items: center;
+}
 *{
     margin: 0;
     padding: 0;
@@ -70,8 +81,8 @@ nav a{
 nav a.active{
     font-weight: bold;
     color: black;
-    text-decoration: underline;
-    text-decoration-color: crimson;
+    cursor: pointer;
+    
   }
 
 /* Card Css */
@@ -152,8 +163,8 @@ nav a.active{
     text-align: center;
     box-sizing: border-box;
     padding-top: 140px;
-    width: 200px;
-    height: 300px;
+    width: 10vw;
+    height: 30vh;
     border: 2px solid rebeccapurple;
     margin-left: 10px;
     font-weight: bolder;
@@ -169,15 +180,18 @@ nav a.active{
 
 .home__first{
     text-align: center;
-
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
     display: inline-block;
     color: white;
     width: 70% ;
     height: 600px;
-    background: url("https://thumbs.dreamstime.com/b/internet-information-technology-businessman-hand-showing-concept-75784736.jpg");
     border-radius: 15px;
     cursor: pointer;
+}
+
+.home__first img {
+    width: 56vw;
+    height: 56vh;
 }
 .home__first h1{
     padding-top: 300px;
@@ -201,7 +215,7 @@ nav a.active{
     position: absolute;
     top: 550px;
     border-radius: 15px;
-    left: 1020px;
+    left: 70vw;
 }
 .home__thir img{
     width: 100%;
